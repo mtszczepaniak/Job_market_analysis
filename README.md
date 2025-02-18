@@ -63,3 +63,5 @@ From all of the three roles selected, those are most often required skills:
 
 ### Poland:
 
+### 2. How are in-demand skills trending for Data Analysts??
+
