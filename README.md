@@ -83,6 +83,7 @@ plt.show()
 ```
 From all of the three roles selected, those are most often required skills: 
 ![alt text](947ab093-fe72-46be-8a05-180627091911.png)
+
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
 ### Insights:
@@ -202,6 +203,7 @@ plt.show()
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
 
 ![alt text](<The Highest Paid & Most In-Demand Skills for Data Analysts in the US.png>)
+
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
 #### Insights:
@@ -232,6 +234,7 @@ plt.show()
 #### Results
 
 ![alt text](<most optimal skills (high paying & high demand) for data analysts.png>)
+
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.*
 
 #### Insights:
@@ -267,6 +270,7 @@ plt.show()
 #### Results
 
 ![alt text](<Most Optimal Skills for Data Analysts in the US.png>) 
+
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.*
 
 #### Insights:
