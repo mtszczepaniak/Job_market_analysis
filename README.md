@@ -1,8 +1,15 @@
+<center> 
+
+**Analysis of job market for data analyst role** 
+==============================================
+**Author:** *Mateusz Szczepaniak*
+</center> 
+
 # Overview
 
-Welcome to my analysis of the data job market, focusing on data analyst roles. This project was created out of a desire to navigate and understand the job market more effectively. It delves into the top-paying and in-demand skills to help find optimal job opportunities for data analysts.
+Welcome to my analysis of the data job market, focusing on data analyst roles. This project was created out of a desire to navigate and understand the job market more effectively. It shows the top-paying and in-demand skills to help find optimal job opportunities for data analysts. 
+Through a series of Python scripts, I explore key questions such as the most demanded skills, salary trends, and the intersection of demand and salary in data analytics.
 
-The data sourced from [Luke Barousse's Python Course](https://lukebarousse.com/python) which provides a foundation for my analysis, containing detailed information on job titles, salaries, locations, and essential skills. Through a series of Python scripts, I explore key questions such as the most demanded skills, salary trends, and the intersection of demand and salary in data analytics.
 
 # The Questions
 
@@ -26,6 +33,9 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - **Git & GitHub:** Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
 
 # Data Preparation and Cleanup
+
+The data is sourced from Luke Barousse's Python Course which provides a foundation for my analysis, containing detailed information on job titles, salaries, locations, and essential skills. 
+
 This section outlines the steps taken to prepare the data for analysis, ensuring accuracy and usability.
 I start by importing necessary libraries and loading the dataset, followed by initial data cleaning tasks to ensure data quality.
 
@@ -139,7 +149,7 @@ plt.show()
 
 ### Results
 
-![alt text](<Trending Top Skills for Data Analysts in the US.png>)
+![Trending Top Skills](<Trending Top Skills for Data Analysts in the US.png>)
 
 
 *Bar graph visualizing the trending top skills for data analysts in the US in 2023.*
@@ -168,7 +178,7 @@ plt.show()
 
 #### Results
 
-![alt text](<Salary Distributions of Data Jobs in the US.png>)  
+![Salary Distribution](<Salary Distributions of Data Jobs in the US.png>)  
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
@@ -202,7 +212,7 @@ plt.show()
 #### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
 
-![alt text](<The Highest Paid & Most In-Demand Skills for Data Analysts in the US.png>)
+![The Highest Paid & Most In-Demand Skills](<The Highest Paid & Most In-Demand Skills for Data Analysts in the US.png>)
 
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
@@ -233,7 +243,7 @@ plt.show()
 
 #### Results
 
-![alt text](<most optimal skills (high paying & high demand) for data analysts.png>)
+![Most optimal skills](<most optimal skills (high paying & high demand) for data analysts.png>)
 
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.*
 
@@ -269,7 +279,7 @@ plt.show()
 
 #### Results
 
-![alt text](<Most Optimal Skills for Data Analysts in the US.png>) 
+![Most Optimal Skills](<Most Optimal Skills for Data Analysts in the US.png>) 
 
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.*
 
