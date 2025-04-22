@@ -1,6 +1,6 @@
 <center> 
 
-**Analysis of job market for data analyst role** 
+**Job market analysys for data roles** 
 ==============================================
 **Author:** *Mateusz Szczepaniak*
 </center> 
